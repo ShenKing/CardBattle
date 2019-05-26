@@ -1,0 +1,65 @@
+{
+  "0": {
+    "card_id": 0,
+    "card_name": "old wang0",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  },
+  "1": {
+    "card_id": 1,
+    "card_name": "old wang1",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  },
+  "2": {
+    "card_id": 2,
+    "card_name": "old wang2",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  },
+  "3": {
+    "card_id": 3,
+    "card_name": "old wang3",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  },
+  "4": {
+    "card_id": 4,
+    "card_name": "old wang4",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  },
+  "5": {
+    "card_id": 5,
+    "card_name": "old wang5",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  },
+  "6": {
+    "card_id": 6,
+    "card_name": "old wang6",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  }
+}

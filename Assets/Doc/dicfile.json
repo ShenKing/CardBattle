@@ -1,0 +1,65 @@
+{
+  "0": {
+    "card_id": 0,
+    "card_name": "基础攻击",
+    "card_description": "对敌方单体造成",
+    "card_icon": "土婊",
+    "card_damage": 5,
+    "card_cost": 1,
+    "card_type": 1
+  },
+  "1": {
+    "card_id": 1,
+    "card_name": "基础防御",
+    "card_description": "获得护甲",
+    "card_icon": "土婊",
+    "card_damage":5,
+    "card_cost": 1,
+    "card_type": 2
+  },
+  "2": {
+    "card_id": 2,
+    "card_name": "横扫",
+    "card_description": "对地方全体造成伤害",
+    "card_icon": "土婊",
+    "card_damage": 7,
+    "card_cost": 2,
+    "card_type": 1
+  },
+  "3": {
+    "card_id": 3,
+    "card_name": "初级治疗",
+    "card_description": "回复自己血量",
+    "card_icon": "土婊",
+    "card_damage": 5,
+    "card_cost": 1,
+    "card_type": 3
+  },
+  "4": {
+    "card_id": 4,
+    "card_name": "小刀",
+    "card_description": "提升所有攻击卡伤害",
+    "card_icon": "土婊",
+    "card_damage": 2,
+    "card_cost": 2,
+    "card_type": 4
+  },
+  "5": {
+    "card_id": 5,
+    "card_name": "old wang5",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  },
+  "6": {
+    "card_id": 6,
+    "card_name": "old wang6",
+    "card_description": "强",
+    "card_icon": "土婊",
+    "card_damage": 10,
+    "card_cost": 1,
+    "card_type": 4
+  }
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "monster_id": 0,
+    "monster_name": "Ê÷¾«",
+	"monster_prefab_name":"monster_tree",
+    "monster_hp": 20,
+    "monster_armor": 0,
+    "monster_damage": 8,
+    "monster_skill": 1
+  },
+  {
+    "monster_id": 1,
+    "monster_name": "Ê¯Í·¹Ö",
+	"monster_prefab_name":"monster_stone",
+    "monster_hp": 35,
+    "monster_armor": 0,
+    "monster_damage": 6,
+    "monster_skill": 1
+  },
+  {
+    "monster_id": 2,
+    "monster_name": "old wang2",
+	"monster_prefab_name":"monster_tree",
+    "monster_hp": 35,
+    "monster_armor": 0,
+    "monster_damage": 10,
+    "monster_skill": 1
+  }
+]
